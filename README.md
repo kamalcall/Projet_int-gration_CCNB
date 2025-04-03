@@ -46,4 +46,4 @@ Ce projet a pour but de **déployer une infrastructure IT moderne et sécurisée
 
 ## 🖼️ Schéma de l'Architecture
 
-![Architecture du projet](./assets/architecture.png)
+![Architecture du projet](./Plan_Projet.png)
